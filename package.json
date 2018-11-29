@@ -1,0 +1,16 @@
+{
+  "name": "cposc_raffle_rng",
+  "version": "1.0.0",
+  "description": "CPOSC RNG raffle bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-csv-to-json": "0.0.13",
+    "jquery-slotmachine": "^4.0.1"
+  }
+}
