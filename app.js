@@ -35,7 +35,7 @@ app.listen(5001, function () {
 
 
 // logic to convert CSV into JSON
-let fileInputName = 'cposc.csv';
+let fileInputName = 'cposc1.csv';
 let fileOutputName = './public/assets/attendeeList.json';
 
 csvToJson.generateJsonFileFromCsv(fileInputName,fileOutputName);
