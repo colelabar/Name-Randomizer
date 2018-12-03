@@ -28,7 +28,7 @@ $(document).ready(function() {
   const element = document.getElementById('spinner');
   const machine = new SlotMachine(element, {
     active: 0,
-    delay: 1500,
+    delay: 2500,
     auto: false,
     direction: 'down',
     transition: 'all 0.8s ease-out 0s'
