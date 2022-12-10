@@ -13,7 +13,7 @@
     "body-parser": "^1.18.3",
     "convert-csv-to-json": "0.0.13",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jquery-slotmachine": "^4.0.1",
     "path": "^0.12.7",
     "serve-favicon": "^2.5.0"
